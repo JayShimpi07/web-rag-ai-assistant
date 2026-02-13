@@ -1,0 +1,15 @@
+# Ignore secrets
+*.env
+
+# Ignore vector stores
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit temp files
+.streamlit/
