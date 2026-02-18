@@ -9,7 +9,7 @@ This application allows users to ingest knowledge from multiple sources and inte
 ## 🚀 Live Demo
 
 🎥 Demo Video:  
-👉 **https://drive.google.com/file/d/1dh-EERgm_i5kWoQewsC2YvK6ESqE-Tly/view?usp=sharing**
+👉 **https://drive.google.com/file/d/1nTqudmvfLZ_KodjEx1yXnIZhD07Md_h9/view?usp=sharing**
 
 ---
 
